@@ -1,0 +1,11 @@
+document.write("JavaScript works!");
+console.log("Hello console!");
+console.warn("This is only a test!");
+let myName = "Rajesh";
+let workFromHome = true;
+let side = 15;
+let radius = 10;
+console.log("My name is " + myName);
+console.log("I Work from Home :" + workFromHome);
+console.log("The length of each side of the square is " + side);
+console.log("The radius of the circle is " + radius);
